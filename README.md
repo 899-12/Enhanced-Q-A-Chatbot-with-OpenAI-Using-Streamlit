@@ -35,5 +35,5 @@ This project implements an intelligent Q&A chatbot using OpenAI's GPT models, La
 
 1. **Clone the Repository:**  
    ```bash
-   git clone
+   git clone https://github.com/899-12/Enhanced-Q-A-Chatbot-with-OpenAI-Using-Streamlit.git
 
